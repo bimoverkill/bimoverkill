@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
+<p align="center">
+    <b>I AM</b>
+</p>
+
+<p align="center">
+    <img alt="Wisetemper" src="./assets/wisetemper-transparent.png">
+</p>
 <!--
 **bimoverkill/bimoverkill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
