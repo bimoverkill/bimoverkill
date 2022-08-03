@@ -19,7 +19,7 @@
 <hr>
 
 <p align="center">
-    <b>Absolutely i open commission for some design project. Click below to email me for the request..</b>
+    <b>Open commission for some design project</b>
 </p>
 
 <p align="center">
