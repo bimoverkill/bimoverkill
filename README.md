@@ -1,11 +1,5 @@
 <p align="center">
-    <b>I'm</b>
-</p>
-<p align="center">
-    <img alt="Wisetemper" src="./assets/wisetemper-transparent.png" width="60%">
-</p>
-<p align="center">
-    <b>Actually i have passion on Graphic Design</b><br>
+    <b>Passionate on Graphic Design</b><br>
     <b>You can Find Me on:</b>
 </p>
 
